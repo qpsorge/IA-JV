@@ -41,3 +41,5 @@ Spider: Picked from the asset store : Animated low poly spider, by Cattleya
 
 ## Animations are made :
 * weither using scripts with physics or using animator & FSM to trigger retrieved animations
+
+##### Copyright @2021 Pestre-Sorge, Modernov, Do not use for commercial purposes.
